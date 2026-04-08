@@ -1,6 +1,14 @@
-# my_app
+<img width="1306" height="1006" alt="image" src="https://github.com/user-attachments/assets/dddc47c8-5fe6-4cad-8b22-3a3164be8f4d" />
+ini screenshot
 
-A new Flutter project.
+Halaman checkout menampilkan:
+
+- List menu (Nasi Goreng, Es Teh, Ayam Geprek)
+- Harga tiap item
+- Subtotal
+- Biaya layanan
+- Total pembayaran
+- Tombol konfirmasi
 
 ## Getting Started
 
